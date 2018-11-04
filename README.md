@@ -1,8 +1,10 @@
-# Mastering Haroopad
-[TOC]
+
+[toc]
 
 ---
 
+# Mastering Haroopad
+Looks like there is a bug in haroopad and not rendering the TOC correctly.
 ## Primary
 Updating the readme file to include more details about the project
 
