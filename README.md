@@ -26,4 +26,4 @@ Value 1 | Value 2 | Value 3
 
 ## Gthub export issues export syntx 
 
-pythin3 ghissues.py dashingdon/primary
+python3 ghissues.py dashingdon/primary
