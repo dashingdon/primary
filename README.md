@@ -23,3 +23,7 @@ First Column | Second Column | Third Column |
 --- | --- | --- |
 Value 1 | Value 2 | Value 3 
 
+
+## Gthub export issues export syntx 
+
+pythin3 ghissues.py dashingdon/primary
